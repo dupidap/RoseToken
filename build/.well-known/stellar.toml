@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GDT5WSORY4FK4TAAXVZCVWXQH7F5S3Y4C6ODFWYIRXQSFVTPZ23UENCT"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+ORG_DESCRIPTION="A rose is a woody perennial flowering plant of the genus Rosa.There are over three hundred species and tens of thousands of cultivars. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
+ORG_LOGO="https://i.ibb.co/WpMV61p/rose.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="Rose"
+issuer="GDT5WSORY4FK4TAAXVZCVWXQH7F5S3Y4C6ODFWYIRXQSFVTPZ23UENCT"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+name="Ruby Rose"
+desc="A rose is a woody perennial flowering plant of the genus Rosa.There are over three hundred species and tens of thousands of cultivars. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds."
+image="https://i.ibb.co/WpMV61p/rose.png"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#RubyRose was issued using the open and inclusive Stellar blockchain network.
